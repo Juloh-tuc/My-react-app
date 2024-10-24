@@ -1,5 +1,5 @@
-import "./App.css";
-import PokemonCard from "../PokemonCard" ;
+import "../App.css";
+import PokemonCard from "./PokemonCard" ;
 
 const pokemonList = [
   {
