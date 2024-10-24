@@ -1,4 +1,7 @@
 
+
+
+
 interface PokemonCardProps {
   pokemon: {
       name: string,
@@ -6,6 +9,7 @@ interface PokemonCardProps {
   };
 }
 function PokemonCard({ pokemon }: PokemonCardProps) {
+  
   
        return (
         <figure>
